@@ -41,7 +41,7 @@ map cmd+k previous_window
 map ctrl+f launch --type=overlay --stdin-source=@screen_scrollback /usr/local/bin/fzf --no-sort --no-mouse --exact -i
 
 # BEGIN_KITTY_THEME
-# Solarized Light
+# Modus Operandi Tinted
 include current-theme.conf
 # END_KITTY_THEME
 
